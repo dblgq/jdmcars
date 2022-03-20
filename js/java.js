@@ -10,7 +10,7 @@ setTimeout(() => { document.location.href = "cars.html"; }, 900);
 
 function main(){
 addEventListener('click',function(){document.getElementById('sndmotor').play()})
-setTimeout(() => { document.location.href = "main.html"; }, 900);
+setTimeout(() => { document.location.href = "index.html"; }, 900);
 }
 
 function info(){
